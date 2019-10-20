@@ -8,7 +8,7 @@ Complete the following steps to install and use your Vagrant coding environment:
 
 * [2. Install Three Programs](#step-two-install-three-programs):
 
-    * [Program 1: Sublime Text Editor](#program-one-sublime-text-editor)
+    * [Program 1: Sublime Text Editor](#program-one-VSC-text-editor)
 
     * [Program 2: VirtualBox](#program-two-virtualbox)
 
@@ -38,13 +38,13 @@ The coding-environment folder will be the folder where your web development envi
 
 ## Step Two: Install Three Programs
 
-You will need to install Sublime Text, VirtualBox, and Vagrant to set up your coding environment.
+You will need to install visual studio code, VirtualBox, and Vagrant to set up your coding environment.
 
-### Program One: Sublime Text Editor
+### Program One: VSC Text Editor
 
-You might have Sublime already installed, but if you haven't installed it yet, complete the following steps:
+You might have Sublime or VSC already installed, but if you haven't installed it yet, complete the following steps:
 
-1. Go to the [Sublime Text Editor website](http://sublimetext.com/) and click the Download for Mac button.
+1. Go to the [VSC Text Editor website](https://code.visualstudio.com/) and click the Download for Mac button.
 
 2. Double-click the downloaded file.
 
@@ -52,7 +52,7 @@ You might have Sublime already installed, but if you haven't installed it yet, c
 
    ![Drag to Applications](images/mac-vagrant-image_0.gif)
 
-4. Open Sublime from your *Applications* folder.
+4. Open VSC from your *Applications* folder.
 
    ![Open From Applications](images/mac-vagrant-image_1.png)
 
@@ -64,11 +64,11 @@ The Security & Privacy dialog opens.
 
 * Click the [Open Anyway](images/mac-vagrant-image_3.png) button.
 
-5. Go back to your *Applications* folder and reopen Sublime Text.
+5. Go back to your *Applications* folder and reopen VSC Text.
 
-If you get a "Sublime Text is an application downloaded from the internet. Are you sure you want to open it?" warning message, click the "Open" button to open Sublime.
+If you get a "visual studio code is an application downloaded from the internet. Are you sure you want to open it?" warning message, click the "Open" button to open Sublime.
 
-If you need more help installing Sublime, review the [Sublime Text install video](https://vimeo.com/88292868).
+If you need more help installing Sublime or VSC, reach out to the instrucor or TA team.
 
 ### Program Two VirtualBox
 
