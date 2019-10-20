@@ -1,6 +1,6 @@
 # Development Environment Setup (Macs)
 
-A development environment refers to the set of processes and tools used to write computer software. This can encompass everything from the physical computer you’re working on to any software you have installed and configured to support development such as your code editor, Ruby, Rails, etc.
+A development environment refers to the set of processes and tools used to write computer software. This can encompass everything from the physical computer you’re working on to any software you have installed and configured to support development such as your code editor, node, javascript etc.
 
 These instructions will guide you through configuring a web development environment on your machine as well as set up all the required accounts that you will need later in the course.
 
@@ -72,7 +72,7 @@ Between each of the coding sessions you do, especially if you restart your machi
 
 `vagrant up`
 
-When this command completes, run the vagrant ssh command to log in to Vagrant.
+When this command completes, run the `vagrant ssh` command to log in to Vagrant.
 
 After this completes, you will be taken to a coding environment inside your virtual machine, and the terminal should contain the green [ENV].
 
@@ -80,9 +80,9 @@ After this completes, you will be taken to a coding environment inside your virt
 
 Before starting any new projects it can be helpful to restart Vagrant.
 
-If you notice any Ruby on Rails servers that are still running in another terminal tab or window, you should quit those as you’ll get an error about multiple Rails instances attempting to use the same port.
+If you notice any node or Ruby on Rails servers that are still running in another terminal tab or window, you should quit those as you’ll get an error about multiple server instances attempting to use the same port.
 
-Running the `killall ruby` command in your terminal should quit all running Rails servers if you’re unsure.
+Running the `killall node` or `killall ruby` command in your terminal should quit all running servers if you’re unsure.
 
 **To ensure that your server is not running** —- If you visit the URL [http://localhost:3030](http://localhost:3030) in your browser, you should not see a web page load. You should ensure that your server is not running before starting new server windows.
 
