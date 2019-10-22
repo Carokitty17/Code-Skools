@@ -19,7 +19,7 @@ Let's enter 15 and press Enter.
 ![preview](images/example15.png)
 
 We are presented with the first 15 items in the Foobar pattern:
-![preview](images/examplefor15.png)
+![preview](images/exmaplefor15.png)
 
 But now let's say we entered 4 instead of 7.
 ![preview](images/example4.png)
