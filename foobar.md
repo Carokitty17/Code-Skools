@@ -11,18 +11,18 @@ Now for your challenge: write a program to play the Foobar game and display n el
 * Add the Foobar logic that will generate the specified number of digits in the pattern.
 
 When we run the program, the user would see the following.
-(images/askforpatter.png)
+![preview](images/askforpatter.png)
 
 Let's enter 15 and press Enter.
-(images/example15.png)
+![preview](images/example15.png)
 
 We are presented with the first 15 items in the Foobar pattern:
-(images/examplefor15.png)
+![preview](images/examplefor15.png)
 
 But now let's say we entered 4 instead of 7.
-(images/example4.png)
+![preview](images/example4.png)
 
 In this case, we would be presented with this output:
-(images/examplefor4.png)
+![preview](images/examplefor4.png)
 
 Good luck on this difficult coding challenge!
