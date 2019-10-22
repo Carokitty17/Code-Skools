@@ -13,7 +13,7 @@ Now for your challenge: write a program to play the Foobar game and display n el
 * Add the Foobar logic that will generate the specified number of digits in the pattern.
 
 When we run the program, the user would see the following.
-![preview](images/askforpatter.png)
+![preview](images/askforpattern.png)
 
 Let's enter 15 and press Enter.
 ![preview](images/example15.png)
