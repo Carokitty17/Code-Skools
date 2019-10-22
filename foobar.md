@@ -1,3 +1,5 @@
+# FOOBAR Challenge
+
 In this challenge, you will solve a problem that is commonly asked during the technical screening process and job interviews in the programming field: the Foobar problem.
 
 The Foobar problem requires a foundation in programming and the coding language you’re using, which is why it often comes up in job interviews. Therefore, being able to solve this problem can help you land a job in the computer programming field.
